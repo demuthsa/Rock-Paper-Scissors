@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Project I created during my journey to learning JavaScript
+Project I created in an attempt to better myself with JavaScript
