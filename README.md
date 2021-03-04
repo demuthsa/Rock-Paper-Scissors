@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Project put together to learn javascript
+Project I created during my journey to learning JavaScript
